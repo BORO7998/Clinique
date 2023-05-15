@@ -1,0 +1,26 @@
+.text{
+    position: relative;
+    left: 250px;
+    background-color: black;
+    width: 60%;
+    height: 50px;
+    color: white;
+    bottom: 100px;  
+
+}
+.tex{
+    position: relative;
+    z-index: 2;
+    bottom: 500px;
+    color: white;
+}
+.fb-page{
+    position: relative;
+    left: 850px;
+    bottom: 100px;
+}
+.sante{
+    position: relative;
+    top: 460px;
+    right: 500px;
+}
